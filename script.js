@@ -3,5 +3,5 @@ function myFunction_yes() {
   }
 
   function myFunction_no() {
-    document.getElementById("demo").innerHTML = "Aree yaar, whats is this. I am sad now";
+    document.getElementById("demo").innerHTML = "tu kitna bhi mana karde, but i Know u love me.";
   }
